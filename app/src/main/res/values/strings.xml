@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MSHack</string>
+    <string name="title_activity_search_">Search_Activity</string>
+    <string name="search_label">Search</string>
+    <string name="disability1">Disability1</string>
+    <string name="disability2">Disability1</string>
+    <string name="disability3">Disability1</string>
+    <string name="disability4">Disability1</string>
+    <string name="localBtn">LocalButton</string>
+
+    <string name="title_activity_result_web_view">ResultWebView</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="local_resource">
+        <item name="item1">dyslexia, http://www.dyslexia.me/visual-learning-for-life-worksheets-app/</item>
+        <item name="item2">SchoolSparks.com, http://www.schoolsparks.com/kindergarten-worksheets/visual-discrimination</item>
+        <item name="item3">Kidzone, http://www.kidzone.ws/prek_wrksht/reading-readiness/index.htm</item>
+        <item name="item4">Pre-Kinders , url":"http://prekinders.com/visual-printables/}</item>
+        <item name="item5">visual perception, https://worksheets.edhelper.com/visual_skills.htm</item>
+        <item name="item6">memory games, https://www.education.com/worksheets/memory-games/</item>
+        <item name="item7">kids memory games, https://icebreakerideas.com/memory-games/</item>
+        <item name="item8">fun learning, https://funlearningforkids.com</item>
+        <item name="item9">visual learning, https://shop.visuallearningforlife.com/about-our-worksheets-2-w.asp</item>
+    </string-array>
+</resources>
